@@ -39,8 +39,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashjaincodder&show_icons=true&locale=en&layout=compact" alt="yashjaincodder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-jain-web-developer-mern-developer&show_icons=true&locale=en&layout=compact" alt="yash-jain-web-developer-mern-developer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashjaincodder&show_icons=true&locale=en" alt="yashjaincodder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-jain-web-developer-mern-developer&show_icons=true&locale=en" alt="yash-jain-web-developer-mern-developer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashjaincodder&" alt="yashjaincodder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-jain-web-developer-mern-developer&" alt="yash-jain-web-developer-mern-developer" /></p>
